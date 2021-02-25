@@ -1,0 +1,17 @@
+
+This is an evolutionary algorithm for solving the traveling
+salesman problem.
+
+Choose the number of cities you wish to solve for, specify the
+parameters for the algorithm, and press "START".
+
+The best solution of every generation is shown in the window
+to the right. The current generation, fitness and total
+population is displayed in the bottom bar. Low fitness implies
+a better solution.
+
+Choosing too high starting population, reproduction rate
+and/or too low selection pressure will make the population
+grow very fast, leading to slow performance and potential
+crashes. A higher mutation rate will increase chances of
+escaping local minima but will also risk ruining good solutions.
