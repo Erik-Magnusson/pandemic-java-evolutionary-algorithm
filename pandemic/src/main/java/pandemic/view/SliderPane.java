@@ -1,4 +1,4 @@
-package java.pandemic.view;
+package pandemic.view;
 
 import javafx.geometry.Insets;
 import javafx.scene.control.Label;

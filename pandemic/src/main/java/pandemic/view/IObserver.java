@@ -1,6 +1,6 @@
-package java.pandemic.view;
+package pandemic.view;
 
-import java.pandemic.model.IObservable;
+import pandemic.model.IObservable;
 
 // Implemented by classed which observe IObservable.
 public interface IObserver {

@@ -1,7 +1,7 @@
-package java.pandemic.controller;
+package pandemic.controller;
 
-import java.pandemic.model.*;
-import java.pandemic.view.*;
+import pandemic.model.*;
+import pandemic.view.*;
 import javafx.animation.AnimationTimer;
 import javafx.application.Platform;
 import javafx.scene.Parent;

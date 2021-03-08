@@ -1,5 +1,5 @@
-package main.java.pandemic;
-import java.pandemic.controller.*;
+package pandemic;
+import pandemic.controller.*;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;

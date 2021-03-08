@@ -1,6 +1,6 @@
-package java.pandemic.view;
+package pandemic.view;
 
-import java.pandemic.model.ICity;
+import pandemic.model.ICity;
 import javafx.scene.canvas.Canvas;
 import java.util.List;
 

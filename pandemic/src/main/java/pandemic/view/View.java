@@ -1,6 +1,6 @@
-package java.pandemic.view;
+package pandemic.view;
 
-import java.pandemic.model.IObservable;
+import pandemic.model.IObservable;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.control.*;
@@ -103,7 +103,7 @@ public class View implements IView {
         this.helpMenuItem = new MenuItem("Instructions");
         menu.getMenus().get(0).getItems().add(exitMenuItem);
         menu.getMenus().get(1).getItems().add(helpMenuItem);
-
+        /*
         this.instructions = new VBox();
         // Load the instructions from external file.
         try {
@@ -114,7 +114,7 @@ public class View implements IView {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
+        */
         return menu;
     }
 

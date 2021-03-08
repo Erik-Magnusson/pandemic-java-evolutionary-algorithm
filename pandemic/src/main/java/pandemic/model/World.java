@@ -1,4 +1,4 @@
-package java.pandemic.model;
+package pandemic.model;
 
 import java.util.ArrayList;
 import java.util.List;

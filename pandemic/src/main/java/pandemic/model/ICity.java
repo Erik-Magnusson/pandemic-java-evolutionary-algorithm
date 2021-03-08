@@ -1,4 +1,4 @@
-package java.pandemic.model;
+package pandemic.model;
 
 public interface ICity {
 
