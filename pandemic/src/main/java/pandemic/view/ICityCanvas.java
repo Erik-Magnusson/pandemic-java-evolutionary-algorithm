@@ -1,8 +1,7 @@
-package View;
+package java.pandemic.view;
 
-import Model.ICity;
+import java.pandemic.model.ICity;
 import javafx.scene.canvas.Canvas;
-
 import java.util.List;
 
 public interface ICityCanvas {

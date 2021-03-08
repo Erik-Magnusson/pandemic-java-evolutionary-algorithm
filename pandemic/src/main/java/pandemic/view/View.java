@@ -1,6 +1,6 @@
-package View;
+package java.pandemic.view;
 
-import Model.IObservable;
+import java.pandemic.model.IObservable;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.control.*;

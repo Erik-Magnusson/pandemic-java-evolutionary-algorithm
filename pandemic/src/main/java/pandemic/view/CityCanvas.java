@@ -1,10 +1,11 @@
-package View;
+package java.pandemic.view;
 
-import Model.ICity;
+import java.pandemic.model.ICity;
+import java.util.List;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
-import java.util.List;
+
 
 // This is the class where the cities and the connections between them are drawn.
 public class CityCanvas implements ICityCanvas {

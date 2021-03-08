@@ -1,4 +1,4 @@
-package Model;
+package java.pandemic.model;
 
 public interface IAlgorithm extends IObservable {
 

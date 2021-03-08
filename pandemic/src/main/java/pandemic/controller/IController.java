@@ -1,4 +1,4 @@
-package Controller;
+package java.pandemic.controller;
 
 import javafx.scene.layout.Pane;
 

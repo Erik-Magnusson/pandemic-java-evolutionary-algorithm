@@ -1,4 +1,4 @@
-package Model;
+package java.pandemic.model;
 
 // A city is functionally a circle.
 public class City implements ICity {

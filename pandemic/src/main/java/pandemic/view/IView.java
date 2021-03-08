@@ -1,4 +1,4 @@
-package View;
+package java.pandemic.view;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
