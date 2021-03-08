@@ -103,18 +103,18 @@ public class View implements IView {
         this.helpMenuItem = new MenuItem("Instructions");
         menu.getMenus().get(0).getItems().add(exitMenuItem);
         menu.getMenus().get(1).getItems().add(helpMenuItem);
-        /*
+
         this.instructions = new VBox();
         // Load the instructions from external file.
         try {
             instructions.getChildren().add(
                     new Text(Files.readString(
-                            Paths.get(System.getProperty("user.dir"), "src/Resources/instructions.txt")
+                            Paths.get(System.getProperty("user.dir"), "src/main/resources/instructions.txt")
                     )));
         } catch (IOException e) {
             e.printStackTrace();
         }
-        */
+
         return menu;
     }
 
